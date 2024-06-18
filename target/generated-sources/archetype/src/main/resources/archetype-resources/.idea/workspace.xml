@@ -1,0 +1,143 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="515a02d1-8820-426c-a60b-91f0be7c6f34" name="Changes" comment="">
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="${symbol_dollar}PROJECT_DIR${symbol_dollar}/ToDoConsole">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2h9StdHjVUzPkxI0TGBMLsmwQIL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CSVHandler.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.${artifactId} [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.${artifactId} [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.${artifactId} [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.${artifactId} [org.apache.maven.plugins:maven-war-plugin:3.3.2:exploded].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.${artifactId} [org.apache.maven.plugins:maven-war-plugin:3.3.2:help].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.${artifactId} [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.${artifactId} [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/naukma/2.3/AUTO/02/${artifactId}&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/naukma/2.3/AUTO/02/${artifactId}/ConsoleToDo/src/main/java/${packageInPathFormat}/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:${symbol_escape}naukma${symbol_escape}2.3${symbol_escape}AUTO${symbol_escape}02${symbol_escape}${artifactId}" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:${symbol_escape}naukma${symbol_escape}2.3${symbol_escape}AUTO${symbol_escape}02${symbol_escape}${artifactId}${symbol_escape}ToDoHandler${symbol_escape}src${symbol_escape}main${symbol_escape}resources" />
+      <recent name="D:${symbol_escape}naukma${symbol_escape}2.3${symbol_escape}AUTO${symbol_escape}02${symbol_escape}${artifactId}${symbol_escape}ToDoHandler" />
+      <recent name="D:${symbol_escape}naukma${symbol_escape}2.3${symbol_escape}AUTO${symbol_escape}02${symbol_escape}${artifactId}${symbol_escape}CSVHandler${symbol_escape}src${symbol_escape}main${symbol_escape}java${symbol_escape}ua${symbol_escape}edu${symbol_escape}ukma" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="515a02d1-8820-426c-a60b-91f0be7c6f34" name="Changes" comment="" />
+      <created>1717005016194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717005016194</updated>
+      <workItem from="1717005017314" duration="2899000" />
+      <workItem from="1717059655852" duration="14000" />
+      <workItem from="1717344951785" duration="5756000" />
+      <workItem from="1717350725168" duration="2131000" />
+      <workItem from="1717352905105" duration="101000" />
+      <workItem from="1717353062320" duration="1266000" />
+      <workItem from="1717425542192" duration="18000" />
+      <workItem from="1717763738795" duration="724000" />
+      <workItem from="1718112922460" duration="701000" />
+      <workItem from="1718367225948" duration="435000" />
+      <workItem from="1718367737683" duration="4000" />
+      <workItem from="1718368294046" duration="3993000" />
+      <workItem from="1718393997165" duration="1766000" />
+      <workItem from="1718395771138" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/ToDoConsole/src/main/java/${packageInPathFormat}/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/ConsoleToDo/src/main/java/${packageInPathFormat}/Main.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
