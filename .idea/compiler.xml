@@ -6,13 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="CSVHandler" />
+        <module name="ConsoleToDo" />
+        <module name="ToDoHandler" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="ConsoleToDo" target="19" />
-      <module name="CSVHandler" target="19" />
-      <module name="ToDoHandler" target="19" />
-      <module name="ToDoList" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>

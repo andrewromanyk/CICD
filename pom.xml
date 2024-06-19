@@ -64,6 +64,13 @@
 
     </build>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub OWNER Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/andrewromanyk/CICD</url>
+        </repository>
+    </distributionManagement>
 
     <profiles>
         <profile>
@@ -72,16 +79,5 @@
                 <maven.test.skip>true</maven.test.skip>
             </properties>
         </profile>
-<!--        <profile>-->
-<!--            <id>package-war</id>-->
-<!--            <build>-->
-<!--                <plugins>-->
-<!--                    <plugin>-->
-<!--                        <artifactId>maven-war-plugin</artifactId>-->
-<!--                        <version>3.3.1</version>-->
-<!--                    </plugin>-->
-<!--                </plugins>-->
-<!--            </build>-->
-<!--        </profile>-->
     </profiles>
 </project>
