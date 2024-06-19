@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/CSVHandler/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/CSVHandler/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ConsoleToDo/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ConsoleToDo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ToDoConsole/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ToDoConsole/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ToDoHandler/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ToDoHandler/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consoletodo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consoletodo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/csvhandler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/csvhandler/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/todohandler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/todohandler/src/main/resources" charset="UTF-8" />
   </component>
 </project>
