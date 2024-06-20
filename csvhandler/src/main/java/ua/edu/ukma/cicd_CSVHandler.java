@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 import com.opencsv.*;
 
-public class CSVHandler {
+public class cicd_CSVHandler {
     public static void main(String[] args) throws Exception {
         Path path = Paths.get("ToDo.txt");
         writeCSV(path, new String[][]{{"Clean the dishes", "0"} , {"Buy groceries", "0"}});

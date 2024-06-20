@@ -2,10 +2,10 @@ package ua.edu.ukma;
 
 import java.util.HashMap;
 
-public class ToDo {
+public class cicd_ToDo {
     HashMap<String, Integer> todo = new HashMap<String, Integer>();
 
-    public ToDo(HashMap<String, Integer> TD) {
+    public cicd_ToDo(HashMap<String, Integer> TD) {
         todo = new HashMap<>(TD);
     }
 

@@ -7,10 +7,10 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.HashMap;
 
-public class Main {
+public class cicd_Main {
     public static void main(String[] args) throws Exception {
         Path path = Paths.get("ToDo.txt");
-        ToDo todo = new ToDo(CSVHandler.readCSV(path));
+        cicd_ToDo todo = new cicd_ToDo(cicd_CSVHandler.readCSV(path));
         boolean proceed = true;
         while(proceed){
             System.out.println(todo.toString());
@@ -47,7 +47,7 @@ public class Main {
                     proceed = false;
             }
         }
-        CSVHandler.writeCSV(path, mapToStringArr(todo.getToDos()));
+        cicd_CSVHandler.writeCSV(path, mapToStringArr(todo.getToDos()));
     }
 
     public static String[][] mapToStringArr(HashMap<String, Integer> map){
